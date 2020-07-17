@@ -1,4 +1,5 @@
 # [2019 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2019)
+## Uncover the factors to help measure how young children learn
 ---
 ## これは何か
 - 2019 Data Science Bowlにて使用したコード類をまとめました。
@@ -14,6 +15,9 @@
 ## データ
 - [こちらから](https://www.kaggle.com/c/data-science-bowl-2019/data)
 - 規約に同意する必要あり
+
+## 結果
+- 上位5%で銀メダル獲得！(ソロ)。
 
 ## おまけ
 - 本コンペで使用したadversarial validationについて、qiitaにまとめました。
